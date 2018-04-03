@@ -73,6 +73,24 @@
 			<artifactId>poi</artifactId>
 			<version>3.9</version>
 		</dependency>
+		
+		<!--DF引用 开始 -->
+		<dependency>
+	   		<groupId>com.itextpdf</groupId>
+		    <artifactId>itextpdf</artifactId>
+		    <version>5.4.2</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.itextpdf</groupId>
+		    <artifactId>itext-asian</artifactId>
+		    <version>5.2.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.itextpdf.tool</groupId>
+		    <artifactId>xmlworker</artifactId>
+		    <version>5.4.1</version>
+		</dependency>
+		<!-- PDF引用 开结束-->
 
 		<!-- JFreeChart 图表统计 -->
 		<dependency>
