@@ -74,7 +74,7 @@
 			<version>3.9</version>
 		</dependency>
 		
-		<!--DF引用 开始 -->
+		<!--PDF引用 开始 -->
 		<dependency>
 	   		<groupId>com.itextpdf</groupId>
 		    <artifactId>itextpdf</artifactId>
@@ -176,6 +176,15 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+
+        <!-- lombok -->
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
+        </dependency>
+
 
 	</dependencies>
 </project>
